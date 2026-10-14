@@ -12,7 +12,7 @@ function Home() {
         <h4>Hello I,m</h4>
         <h1>Mahmoued Moustafa</h1>
 
-        <h4 className='text-light'>Frontend Developer || Developer N8n</h4>
+        <h4 className='text-light'>Fresh Frontend Developer React</h4>
 
         <div className="btns">
           <a href={Cv} className='btn' download>Download cv</a>
